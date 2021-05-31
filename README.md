@@ -4,7 +4,7 @@ I'm a designer and coder that just hasn't stopped making tech since he was 14.
 Want to check out who I am? These projects best describe it:
 
 1. ⭐ [My Portfolio and Life's Vision (The Arcadia Project)](https://thearcadiaproject.com/)
-2. ⚔ [Fast-paced 2D fighting game where you save humanity from climate extinction](https://ldjam.com/events/ludum-dare/45/our-last-chance)
+2. ⚔ [Fast-paced 2D fighting game where you save humanity from climate extinction (95th for Fun out of 1,648 entries)](https://ldjam.com/events/ludum-dare/45/our-last-chance)
 3. ⌛ [Simple and delightful open-source Pomodoro timer desktop app made in Electron (⭐21 )](https://github.com/rollersteaam/chronobreak)
 4. 🌠 [Nano-scale atomic physics simulator in Processing Java](https://thearcadiaproject.com/projects/nanobuilder.html)
 5. 🌍 [3D cyclone visualisation hackathon web app for the Met Office](https://github.com/LloydTao/Hackathon-Met-Office-2020)
