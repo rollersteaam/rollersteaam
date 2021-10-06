@@ -1,5 +1,5 @@
 ### Yo 👋
-📏 I make designs, ✏ write .cpp .cs .c .unity .py .vue .js, and lots of other stuff.
+📏 I make designs, ✏ write .cpp .cs .c .unity .py .vue .js, and I do lots of other stuff. No boxes for me please 
 
 🎯 I'm working on 2 primary projects
 - [📹 SimplyVideo, 2D and 3D video chat collaboration that everything can join](https://simplyvideo.io/)
