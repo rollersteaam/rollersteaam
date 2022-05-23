@@ -2,7 +2,6 @@
 I wish you a great day 😎 Remember to take a breather.
 
 Currently working on...
-- [📹 SimplyVideo, letting everyone talk in 3D. 2D and 3D video chat that every device can join.](https://simplyvideo.io/)
 - [🎵 Emotion, easily find playlists of music that fit your mood and taste](https://thearcadiaproject.com/emotion/)
 
 Some completed projects, most prototypical, some actually production-ready...
