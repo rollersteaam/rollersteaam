@@ -1,7 +1,7 @@
 # whoami
 
-Just a kid trying to build tech that genuinely helps people, and without harming them.
+Builder of genuinely helpful tech.
 
-👓 For my job, I work at RealWear Inc. making head-mounted tablets, controlled by your voice.
+👓 Android Engineer at [Realwear Inc.](https://www.realwear.com/), building new computer vysors
 
-🎶 On the side, I founded my startup Arcadia Softium that uses AI to help bring daily joy to you, through music.
+🎶 Founder at [Arcadia Softium](https://www.arcadiasoftium.io/), building new human-AI interfaces
