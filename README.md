@@ -1,7 +1,9 @@
 # whoami
 
-Builder of genuinely helpful tech.
+Builder of good tech. Ethically and literally.
 
-👓 Android Engineer at [Realwear Inc.](https://www.realwear.com/), building new computer vysors
+🎶 Founder of [Arcadia Softium](https://www.arcadiasoftium.io/), building a new music app that makes playlists that connect with you emotionally
 
-🎶 Founder at [Arcadia Softium](https://www.arcadiasoftium.io/), building new human-AI interfaces
+👓 Ex-Android Engineer at [Realwear Inc.](https://www.realwear.com/)
+
+5 years of experience as a Software Engineer in Android, Vue, Django, and more. Very passionate about user interfaces.
