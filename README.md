@@ -1,9 +1,11 @@
-# whoami
+```
+> whoami
 
-Builder of good tech. Ethically and literally.
+**Builder of tech for good. 5 years of experience in Android, Vue, Django, and more.**
 
-🎶 Founder of [Arcadia Softium](https://www.arcadiasoftium.io/), building a new music app that makes playlists that connect with you emotionally
+Machine learning, user interfaces, and software design patterns are my itches.
+
+🎶 Founder of Emotion, an app that plays music by how it feels, instead of how it sounds
 
 👓 Ex-Android Engineer at [Realwear Inc.](https://www.realwear.com/)
-
-5 years of experience as a Software Engineer in Android, Vue, Django, and more. Very passionate about user interfaces.
+```
