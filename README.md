@@ -1,7 +1,7 @@
 ```
 > whoami
 
-🎶 Founder of [Emotion](https://lifesong.app), an emotion-focused music playlisting app
+🎶 Founder of [Emotion](https://lifesong.app), a feeling-focused music app
 
 👓 Ex-Android Engineer at [Realwear Inc.](https://www.realwear.com/)
 
